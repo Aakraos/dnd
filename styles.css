@@ -1,8 +1,8 @@
 @font-face {
-    font-family: "DragonHunter";
+    font-family: "dragon-hunter";
     src: url("assets/fonts/DragonHunter-9Ynxj.woff") format("woff");
 }
 
 h1 {
-    font-family: "DragonHunter", sans-serif;
+    font-family: "dragon-hunter", sans-serif;
 }
