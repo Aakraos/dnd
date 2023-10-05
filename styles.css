@@ -10,8 +10,12 @@
 
 h1 {
     font-family: "dragonhunter", sans-serif;
+    text-align: center;
+    font-size: 5vw;
 }
 
 #p1 {
     font-family: "medieval", sans-serif;
+    text-align: center;
+    font-size: 5vw;
 }
