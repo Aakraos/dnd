@@ -1,6 +1,6 @@
 @font-face {
     font-family: "dragon-hunter";
-    src: url("assets/fonts/DragonHunter-9Ynxj.otf") format("otf");
+    src: url("assets/fonts/DragonHunter-9Ynxj.otf") format("opentype");
 }
 
 h1 {
