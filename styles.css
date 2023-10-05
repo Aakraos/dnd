@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: "medieval";
-    src: url("assets/fonts/medieval.ttf") format("opentype");
+    src: url("assets/fonts/medieval.ttf") format("typescript");
 }
 
 h1 {
