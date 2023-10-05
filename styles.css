@@ -2,3 +2,7 @@
     font-family: "DragonHunter";
     src: url("./assets/fonts/DragonHunter-9Ynxj.woff") format("woff");
 }
+
+h1 {
+    font-family: "DragonHunter", sans-serif;
+}
