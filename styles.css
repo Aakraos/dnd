@@ -1,8 +1,8 @@
 @font-face {
-    font-family: "dragon-hunter";
-    src: url("https://www.fontspace.com/dragon-hunter-font-f92096") format("opentype");
+    font-family: dragon-hunter;
+    src: url("assets/fonts/DragonHunter-9Ynxj.otf") format("opentype");
 }
 
 h1 {
-    font-family: "dragon-hunter", sans-serif;
+    font-family: dragon-hunter, sans-serif;
 }
