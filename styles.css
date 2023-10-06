@@ -11,11 +11,27 @@
 h1 {
     font-family: "dragonhunter", sans-serif;
     text-align: center;
+    color: white;
     font-size: 5vw;
+}
+
+#header h1 {
+    color: white;
 }
 
 #p1 {
     font-family: "medieval", sans-serif;
     text-align: center;
+    color: aliceblue;
     font-size: 1.8vw;
+}
+
+#header {
+    background-image: url('assets/img/banner.webp'); /* Sostituisci 'percorso_dell_immagine.jpg' con il percorso effettivo dell'immagine di sfondo */
+    background-size: cover; /* Imposta l'immagine in modo che copra l'intero elemento div */
+    background-repeat: no-repeat; /* Evita la ripetizione dell'immagine */
+    background-position: center; /* Posiziona l'immagine al centro del div */
+    text-align: center; /* Centra il contenuto del div orizzontalmente */
+    text-decoration-color: aliceblue;
+    padding: 20px; /* Aggiunge uno spazio intorno al contenuto */
 }
